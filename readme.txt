@@ -17,6 +17,6 @@ Rebase commmit 2
 
 Rebase commit 3
 
-das ist ein Test, um zu gucken was passiert wenn ich direkt im editor etwas schreibe und dann über git nachschaue.
+das ist ein Test, um zu gucken was passiert wenn ich direkt im editor etwas schreibe und dann ï¿½ber git nachschaue.
 
-Änderungen sollen gestashed werden, hotfix auf master
+ï¿½nderungen sollen gestashed werden, hotfix auf master
