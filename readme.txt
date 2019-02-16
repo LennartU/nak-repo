@@ -14,3 +14,5 @@ Rebase commit 1
 Rebase commmit 2
 
 Rebase commit 3
+
+das ist ein Test, um zu gucken was passiert wenn ich direkt im editor etwas schreibe und dann über git nachschaue.
