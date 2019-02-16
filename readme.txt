@@ -8,3 +8,9 @@ tracked&modified
 first change in feature/123
 
 Aufgabe 1 in feature/123
+
+Rebase commit 1
+
+Rebase commmit 2
+
+Rebase commit 3
